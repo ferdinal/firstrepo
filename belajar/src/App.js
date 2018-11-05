@@ -11,6 +11,10 @@ class App extends Component {
           <p>
             ini adalah halaman konten master
           </p>
+
+          <p>
+            ini adalah halaman konten master
+          </p>
           <a
             className="App-link"
             href="https://reactjs.org"
